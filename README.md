@@ -1,6 +1,6 @@
 # GitBash-Reference
 
-##Useful commands
+## Useful commands
 - `cd` navigate to your home directory or change directories
 - `cd ..` navigate up one directory level
 - `cd-` navigate to the previous directory
