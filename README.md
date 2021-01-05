@@ -16,3 +16,11 @@
 - Go to repo: `cd <REPO NAME>`
 - Create a branch: `git branch <BRANCH NAME>`
 - Push branch to Github: `git push --set-upstream origin <BRANCH NAME>`
+
+## Make a Commit
+- Check out to a branch: `git checkout <BRANCH NAME>
+- Create a file `touch <FILE NAME>`
+- Make changes to file, save
+- Stage the file: `git ass <FILE NAME>`
+- Commit change: `git commit -m "<COMMIT MESSAGE>"`
+- Push commit to GitHub: `git push`
