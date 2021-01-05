@@ -24,3 +24,9 @@
 - Stage the file: `git add <FILE NAME>`
 - Commit change: `git commit -m "<COMMIT MESSAGE>"`
 - Push commit to GitHub: `git push`
+
+## Merge a Pull Request
+- Check out to main branch: `git checkout main`
+- Merge the branch: `git merge <BRANCH NAME>`
+- Push to Github: `git push`
+- Delete branch locally: `git branch -d <BRANCH NAME>`
