@@ -25,6 +25,8 @@
 - Commit change: `git commit -m "<COMMIT MESSAGE>"`
 - Push commit to GitHub: `git push`
 
+Make a pull request(can be done through github.com)
+
 ## Merge a Pull Request
 - Check out to main branch: `git checkout main`
 - Merge the branch: `git merge <BRANCH NAME>`
