@@ -21,6 +21,6 @@
 - Check out to a branch: `git checkout <BRANCH NAME>
 - Create a file `touch <FILE NAME>`
 - Make changes to file, save
-- Stage the file: `git ass <FILE NAME>`
+- Stage the file: `git add <FILE NAME>`
 - Commit change: `git commit -m "<COMMIT MESSAGE>"`
 - Push commit to GitHub: `git push`
