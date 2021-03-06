@@ -10,6 +10,7 @@
 - use insert button to paste
 - `start <FILE NAME>` open a file in text editor/VS Code
 - `touch <FILE NAME>` creates a file
+- `mkdir <FILE NAME>` creates a new folder/directory
 
 ## Create a Branch
 - Clone a repository: `git clone <REPOSITORY URL>`
